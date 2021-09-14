@@ -1,0 +1,89 @@
+.showDetails{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
+.price{
+    color: coral;
+    padding-top: 100px;
+}
+.price1{
+    color: coral;
+}
+
+.showDetails__img{
+    width: 100%;
+    object-fit: contain;
+}
+.showDetails__icon{
+    display: flex;
+    align-items: center;
+}
+.showDetails__details > h2{
+    color: coral;
+}
+.showDetails__details > p{
+    color: gray;
+}
+.showDetails__info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.showDetails__left{
+    border: 1px solid gray;
+    max-width: 800px;
+    padding: 15px;
+}
+.showDetails__desc > h2,p{
+    margin-top: 20px;
+    padding: 2px;
+}
+.showDetails__desc > button{
+    background-color: white !important;
+    font-weight: 600 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+    margin: 10px 0;
+}
+.showDetails__desc > p{
+    color: gray;
+    
+}
+.showDetails__desc > h2{
+    color: coral;
+}
+
+.showDetails__desc{
+    margin-top: 10px;
+}
+.showDetails__datesPick > h4{
+    margin: 15px 0;
+}
+.showDetails__right{
+    padding: 15px;
+    background-color:rgb(211, 209, 209);
+    box-shadow: lightcyan;
+}
+.showDetails__finish{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.showDetails__book > button{
+    background-color: white !important;
+    font-weight: 600 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+    width: 100%;
+
+}
+.showDetails__book{
+    margin-top: 40px;
+    text-align: center;
+}
+.showDetails__content h2{
+    color: coral;
+}

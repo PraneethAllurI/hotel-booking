@@ -1,0 +1,12 @@
+.datePicker__search{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.datePicker__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}

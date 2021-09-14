@@ -1,0 +1,19 @@
+.search{
+    position: absolute;
+    top:50px;
+    left: 25%;
+    width: 100vw;
+}
+.search >button{
+    position: absolute;
+    left:0;
+    top: 330px;
+    text-transform: inherit !important;
+    background-color: #ff7779;
+    color: white;
+    width: 558px;
+}
+.search > button:hover{
+    background-color: white;
+    color: #ff7779;
+}

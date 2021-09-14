@@ -1,0 +1,70 @@
+.banner{
+    background: url("https://interiordesigner.advertroindia.co.in/uploads-advertro-03-08-2019/interiordesigner/updates/360889/banner3.jpg")center center;
+    height: 50vh;
+    position: relative;
+}
+.banner__datePicker{
+    color:coral;
+    margin-right: 5px;
+}
+.banner__search{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:rgb(252, 169, 138);
+    height: 60px;
+}
+.banner__searchButton, .banner__searchButton{
+    background-color: white !important;
+    font-weight: 600 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+.banner__guests{
+    display: flex;
+    align-items: center;
+}
+.banner__guests > h4{
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+}
+.banner__peopleIcon{
+    margin-left: 10px;
+}
+.banner__info{
+    background-color: black;
+    color:white;
+    padding-top: 15vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 400px;
+    max-height: 50vh;
+}
+
+.banner__info > button{
+    background-color: #ff7779;
+    color:white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner__infoLocation{
+    color:coral;
+    margin-right: 5px;
+}
+.banner__info > h5{
+    margin-top: 10px;
+}
+.banner__info > button,.banner__infoLocation:hover{
+    background-color: white;
+    color:#ff7779;
+}
+.banner__guests > input{
+    border-radius: 10px;
+    padding: 10px;
+    width: 50px;
+    border: 1px solid gray;
+    outline: none;
+}

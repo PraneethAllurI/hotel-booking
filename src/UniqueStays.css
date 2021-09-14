@@ -1,0 +1,12 @@
+.searchHome__buttons {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+}
+.searchHome__buttons > button{
+    margin: 0 5px;
+}
+.searchHome > p{
+    color: coral;
+    margin: 10px 27px;
+}
