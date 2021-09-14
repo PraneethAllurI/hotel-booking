@@ -15,7 +15,7 @@ This is a hotel booking application which build using the stack mentioned above.
 -Application is not responsive (only lg devices).
 
 **Stuff:**
--The date picker module is used in the application **npm install react-date-picker**
+-The date picker module is used in the application **(npm install react-date-picker)**
 -Pick the date and the **Dates and Cost** of hotel room is displayed in the Search Page
 -click on the room and book room in a particular hotel.
 
