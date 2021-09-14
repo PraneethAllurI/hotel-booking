@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tech Stack:
 
-**reactJS** (javascript library)
-**context API** to fetch the dates of booking
-**javascript** scripting language
-**Material UI** icons
+**reactJS** (javascript library),
+**context API** to fetch the dates of booking,
+**javascript** scripting language,
+**Material UI** icons.
 
 **Description:**
 This is a hotel booking application which build using the stack mentioned above.
